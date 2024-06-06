@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO THERE 👋 I'm Victor!<br><br>💻 Frontend Developer focused in the create of beautiful and interactive web application<br>👩‍💻 My main technologies are HTML, CSS, Javascript, Typescript and ReactJS, but i have<br>some knowledge of NodeJS, Express and some relational databases like PostgreSQL and<br>SQLite too<br>🎒Im currently learning more about the client site of web applications to be more productive<br>  
+HELLO THERE 👋 I'm Victor!<br><br>💻 Frontend Developer focused in the create of beautiful and interactive web application<br>👩‍💻 My main technologies are HTML, CSS, Javascript, Typescript and ReactJS, but i have<br>some knowledge of NodeJS, Express and some relational databases like PostgreSQL and<br>SQLite too<br>🎒Im currently learning more about the client side of web applications to be more productive<br>  
 
 
 ## 🌐 Socials:
